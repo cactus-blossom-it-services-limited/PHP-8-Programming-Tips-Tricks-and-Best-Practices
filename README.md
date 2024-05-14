@@ -9,6 +9,9 @@ This is the code repository for [PHP 8 Programming Tips, Tricks and Best Practic
 
 **A practical guide to PHP 8 features, usage changes, and advanced programming techniques**
 
+## Local Directory Structure
+
+**~/My_PHP8/Oreilly-Media/PHP-8-Programming-Tips-Tricks**
 
 ## What is this book about?
 
