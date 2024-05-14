@@ -11,7 +11,7 @@ This is the code repository for [PHP 8 Programming Tips, Tricks and Best Practic
 
 ## Local Directory Structure
 
-**~/My_PHP8/Oreilly-Media/PHP-8-Programming-Tips-Tricks**
+**~/My_PHP8/Oreilly-Media/PHP-8-Programming-Tips-Tricks/This Repository**
 
 ## What is this book about?
 
